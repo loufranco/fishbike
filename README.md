@@ -24,7 +24,9 @@ Results in fbc2, which is an fishbike interpreter/compiler.
 
 Here is a program to find all primes not divisible by themselves
 
-```touch primes.fb
-fbc primes.fb```
+```shell
+touch primes.fb
+fbc primes.fb
+```
 
 Enjoy!
