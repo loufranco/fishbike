@@ -14,7 +14,7 @@ Or, you can compile them like this
 
 and run that like this (after chmod +x)
 
-```./program```
+``` ./program ```
 
 fbc is self-hosted, so
 
